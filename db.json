@@ -1,1 +1,260 @@
 
+{
+  
+  "status": true,
+  "makhrojHijaiyah": [
+    
+    {
+      "id" : 1,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/a.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a1.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/a1.mp3"
+    },
+      
+    {
+      "id" : 2,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/b.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a2.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/aa.mp3"
+    },
+    
+      {
+      "id" : 3,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/c.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a3.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ab.mp3"
+    },
+    
+      {
+      "id" : 4,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/d.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a4.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ac.mp3"
+    },
+    
+      {
+      "id" : 5,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/e.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a5.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ad.mp3"
+    },
+    
+      {
+      "id" : 6,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/f.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a6.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ae.mp3"
+    },
+    
+      {
+      "id" : 7,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/g.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a7.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/af.mp3"
+    },
+    
+      {
+      "id" : 8,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/h.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a8.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ag.mp3"
+    },
+    
+      {
+      "id" : 9,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/i.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a9.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ah.mp3"
+    },
+    
+      {
+      "id" : 10,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/j.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a10.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ai.mp3"
+    },
+    
+      {
+      "id" : 11,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/k.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a11.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/aj.mp3"
+    },
+    
+      {
+      "id" : 12,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/l.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a12.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ak.mp3"
+    },
+    
+      {
+      "id" : 13,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/m.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a13.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/al.mp3"
+    },
+    
+      {
+      "id" : 14,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/n.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a14.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/am.mp3"
+    },
+    
+      {
+      "id" : 15,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/o.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a15.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/an.mp3"
+    },
+    
+      {
+      "id" : 16,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/p.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a16.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ao.mp3"
+    },
+      {
+      "id" : 17,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/q.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a17.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ap.mp3"
+    },
+    
+      {
+      "id" : 18,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/r.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a18.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/aq.mp3"
+    },
+    
+      {
+      "id" : 19,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/s.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a19.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ar.mp3"
+    },
+    
+      {
+      "id" : 20,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/t.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a20.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/as.mp3"
+    },
+    
+      {
+      "id" : 21,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/u.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a21.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/at.mp3"
+    },
+    
+      {
+      "id" : 22,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/v.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a22.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/au.mp3"
+    },
+    
+      {
+      "id" : 23,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/w.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a23.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/au.mp3"
+    },
+    
+      {
+      "id" : 24,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/x.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a24.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/aw.mp3"
+    },
+    
+      {
+      "id" : 25,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/y.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a25.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ax.mp3"
+    },
+    
+      {
+      "id" : 26,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/z.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/a26.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/ay.mp3"
+    },
+      {
+      "id" : 27,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/a2.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/water.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/az.mp3"
+    },
+    
+     {
+      "id" : 28,
+      "foto_hijaiyah" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/GmbarJudul/a3.jpg?raw=true",
+      "title" : "Alif",
+      "description" : "Alif Adalah",
+      "sound_judul" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundJudul/sound2.mp3",
+      "sound_desc" : "https://github.com/pramudia/makrojHijaiyah/blob/main/hijaiyah/raw/soundDesc/az.mp3"
+    },
+   
+    
+    ]
+  
+}
