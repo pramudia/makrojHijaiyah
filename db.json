@@ -1,8 +1,4 @@
-
-{
-  
-  "status": true,
-  "makhrojHijaiyah": [
+[
     
     {
       "id" : 1,
@@ -256,5 +252,3 @@
    
     
     ]
-  
-}
