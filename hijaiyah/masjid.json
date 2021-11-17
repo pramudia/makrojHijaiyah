@@ -1,1 +1,39 @@
 
+[
+
+  {
+    "id" : 1,
+    "nama_masjid" : "Masjid Baitul Mukmin"
+    "alatitude" : "0.9223522737620649"
+    "alongitude" : "104.51558706304587"
+  },
+  
+    {
+    "id" : 2,
+    "nama_masjid" : "Masjid Al A'raf"
+    "alatitude" : "0.9197780248930121"
+    "alongitude" : "104.51600399932758"
+  },
+  
+    {
+    "id" : 3,
+    "nama_masjid" : "Masjid Nurul Ilmi"
+    "alatitude" : "0.9190558700606408"
+    "alongitude" : "104.51704497952193"
+  },
+  
+    {
+    "id" : 4,
+    "nama_masjid" : "Masjid Besar Al Uswah"
+    "alatitude" : "0.9186064529791301"
+    "alongitude" : "104.51085221453225"
+  },
+  
+    {
+    "id" : 5,
+    "nama_masjid" : "Surau Bitusalam"
+    "alatitude" : "0.9202667991375713"
+    "alongitude" : "104.52031615780278"
+  },
+
+]
