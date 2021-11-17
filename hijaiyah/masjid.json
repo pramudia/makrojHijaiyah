@@ -1,9 +1,9 @@
 {
-  status: "ok",
-  query: {
-  format: "json"
+  "status": "ok",
+  "query": {
+  "format": "json"
   },
-  masjid: [
+  "masjid": [
 
     {
       "id" : 1,
