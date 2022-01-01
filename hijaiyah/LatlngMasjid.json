@@ -172,102 +172,96 @@
    		},
    		{
    			"id": 27,
-   			"nama_masjid": "Masjid Nurul Jihad",
-   			"alatitude": "0.977140119537857",
-   			"alongitude": "104.42623786673528"
-   		},
-   		{
-   			"id": 28,
    			"nama_masjid": "Masjid Siratul Anbiyya",
    			"alatitude": "0.9574018747438391",
    			"alongitude": "104.42812614185141"
    		},
          {
-   			"id": 29,
+   			"id": 28,
    			"nama_masjid": "Masjid Besar Al-Huda",
    			"alatitude": "0.9479618043116272",
    			"alongitude": "104.43808250155479"
    		},
          {
-   			"id": 30,
+   			"id": 29,
    			"nama_masjid": "Masjid Khadijah Zainal Nurul Haq",
    			"alatitude": "0.9488199936000449",
    			"alongitude": "104.44580726339362"
    		},
          {
-   			"id": 31,
+   			"id": 30,
    			"nama_masjid": "Masjid Al-Mujahidin Kampung Bugis",
    			"alatitude": "0.9424693878373819",
    			"alongitude": "104.45370368660664"
    		},
          {
-   			"id": 32,
+   			"id": 31,
    			"nama_masjid": "Masjid Bahrul ‘Ulum Umrah",
    			"alatitude": "0.9570669275651666",
    			"alongitude": "104.44219503329379"
    		},
          {
-   			"id": 33,
+   			"id": 32,
    			"nama_masjid": "Masjid Al-Buchori",
    			"alatitude": "0.9508796470233118",
    			"alongitude": "104.465376660052"
    		},
          {
-   			"id": 34,
+   			"id": 33,
    			"nama_masjid": "Masjid Al-Kautsar Tanjung Lanjut",
    			"alatitude": "0.9453872351709721",
    			"alongitude": "104.47704963349733"
    		},
          {
-   			"id": 35,
+   			"id": 34,
    			"nama_masjid": "Masjid Hidayatul Islamiyah",
    			"alatitude": "0.9752521184932256",
    			"alongitude": "104.47172813089725"
    		},
          {
-   			"id": 36,
+   			"id": 35,
    			"nama_masjid": "Masjid Al-Mukmin",
    			"alatitude": "0.9589466110740262",
    			"alongitude": "104.48065452235545"
    		},
          {
-   			"id": 37,
+   			"id": 36,
    			"nama_masjid": "Masjid Nur Falah",
    			"alatitude": "0.956555968518309",
    			"alongitude": "104.47945192298445"
    		},
          {
-   			"id": 38,
+   			"id": 37,
    			"nama_masjid": "Masjid At-Taubah",
    			"alatitude": "0.9572039851905401",
    			"alongitude": "104.48001901665779"
    		},
          {
-   			"id": 39,
+   			"id": 38,
    			"nama_masjid": "Masjid Baiturrahim",
    			"alatitude": "0.9557528644590766",
    			"alongitude": "104.4811181243745"
    		},
          {
-   			"id": 40,
+   			"id": 49,
    			"nama_masjid": "Masjid Nurul Imam",
    			"alatitude": "0.9559248900329939",
    			"alongitude": "104.48168206445224"
    		},
          {
-   			"id": 41,
+   			"id": 40,
    			"nama_masjid": "Masjid Al-Hikmah",
    			"alatitude": "0.9557146365525911",
    			"alongitude": "104.48212174654675"
    		},
          {
-   			"id": 42,
+   			"id": 41,
    			"nama_masjid": "Masjid Al-Mujaihin",
    			"alatitude": "0.9558957406295926",
    			"alongitude": "104.48150590969774"
    		},
          {
-   			"id": 43,
+   			"id": 42,
    			"nama_masjid": "Masjid Baiturrahman",
    			"alatitude": "0.9553495453080441",
    			"alongitude": "104.48155254261383"
